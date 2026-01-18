@@ -1,0 +1,7 @@
+product_module,team_owner,criticality
+billing_core,Product - Billing,high
+subscriptions,Product - Subscriptions,high
+tax_vat,Product - Tax,critical
+reporting,Product - Analytics,medium
+integrations,Product - Integrations,high
+auth_access,Platform - Identity,high
