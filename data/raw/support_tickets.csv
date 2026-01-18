@@ -1,6 +1,6 @@
-ticket_id,client_id,created_at,channel,comment_text
-TCK-001,CLT-001,2024-03-02,email,Le montant de la facture ne correspond pas à ce qui était prévu.
-TCK-002,CLT-002,2024-03-03,chat,Impossible de me connecter depuis ce matin.
-TCK-003,CLT-003,2024-03-05,email,L'intégration avec Stripe ne remonte plus les paiements.
-TCK-004,CLT-001,2024-03-06,web,Je n'arrive plus à créer de nouvelles factures, est-ce normal ?
-TCK-005,CLT-002,2024-03-07,email,La TVA affichée sur la facture semble incorrecte.
+ticket_id,client_id,created_at,channel,resolution_time_hours,comment_text
+TCK-001,CLT-001,2024-03-02,email,12,Le montant de la facture ne correspond pas à ce qui était prévu.
+TCK-002,CLT-002,2024-03-03,chat,2,Impossible de me connecter depuis ce matin.
+TCK-003,CLT-003,2024-03-05,email,36,L'intégration avec Stripe ne remonte plus les paiements.
+TCK-004,CLT-001,2024-03-06,web,18,Je n'arrive plus à créer de nouvelles factures, est-ce normal ?
+TCK-005,CLT-002,2024-03-07,email,24,La TVA affichée sur la facture semble incorrecte.
