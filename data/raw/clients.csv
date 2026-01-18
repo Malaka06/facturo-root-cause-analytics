@@ -1,5 +1,4 @@
-client_id,company_name
-CLT-001,Alpha Solutions
-CLT-002,Beta Consulting
-CLT-003,Gamma Industries
-
+client_id,company_name,plan
+CLT-001,Alpha Solutions,pro
+CLT-002,Beta Consulting,starter
+CLT-003,Gamma Industries,enterprise
